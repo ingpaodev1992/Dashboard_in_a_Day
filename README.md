@@ -78,13 +78,13 @@ Este módulo finalizó el taller con la colaboración y distribución de informe
 
 ## Tablero Dinámico
 
-![Tablero Dinámico](ruta/a/tu/tablero.jpg)
+![Tablero Dinámico](https://github.com/ingpaodev1992/Dashboard_in_a_Day/blob/main/Dashboard_in_a_day.PNG)
 
 Este es el tablero dinámico creado durante el taller, el cual refleja las habilidades adquiridas en los módulos anteriores.
 
 ## Diploma de Participación
 
-![Diploma](ruta/a/tu/diploma.jpg)
+![Diploma](https://github.com/ingpaodev1992/Dashboard_in_a_Day/blob/main/Certificate.pdf)
 
 ## Conclusión
 
